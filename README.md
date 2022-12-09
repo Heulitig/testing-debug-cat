@@ -6,7 +6,7 @@ FPM Blank Package Template Repo
 
 [Deploy using FifthTry (controller-service)](https://fifthtry.com/hosting/deploy/?git-repo=heulitig/testing-debug-cat)
 
-[![Deploy using FifthTry (local)](fifthtry-button.svg)](https://127.0.0.1:8000/deploy/?git-repo=heulitig/testing-debug-cat)
+[![Deploy using FifthTry (local)](fifthtry-button.svg)](http://127.0.0.1:8000/deploy/?git-repo=heulitig/testing-debug-cat)
 
 > 🧑‍🚀 **Seasoned traveler?** update this file. Enjoy!
 
