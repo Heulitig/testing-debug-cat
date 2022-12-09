@@ -2,11 +2,11 @@
 
 FPM Blank Package Template Repo
 
-[Deploy using FifthTry (fastn.io)](https://fastn.io/deploy/?git-repo=<user_name>/<repo_name>)
+[Deploy using FifthTry (fastn.io)](https://fastn.io/deploy/?git-repo=heulitig/testing-debug-cat)
 
-[Deploy using FifthTry (controller-service)](https://fifthtry.com/hosting/deploy/?git-repo=<user_name>/<repo_name>)
+[Deploy using FifthTry (controller-service)](https://fifthtry.com/hosting/deploy/?git-repo=heulitig/testing-debug-cat)
 
-[![Deploy using FifthTry (local)](fifthtry-button.svg)](https://127.0.0.1:8000/deploy/?git-repo=<user_name>/<repo_name>)
+[![Deploy using FifthTry (local)](fifthtry-button.svg)](https://127.0.0.1:8000/deploy/?git-repo=heulitig/testing-debug-cat)
 
 > 🧑‍🚀 **Seasoned traveler?** update this file. Enjoy!
 
